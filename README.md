@@ -6,7 +6,8 @@
 list1 = [1, 3, 4]
 list2 = [6, 7, 9]
 list3 = [8, 10, 5]
-3.UI тест Google
+
+3. UI тест Google
 
 
 
